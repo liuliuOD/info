@@ -1,7 +1,1 @@
-<!DOCTYPE html>
-<head>
-</head>
-  
-<body>
-  <h1>RESUME</h1>
-</body>
+# This is my resume page [LINK](https://liuliuod.github.io/info/).
